@@ -21,8 +21,6 @@ git clone https://github.com/purwnt/vue-load-vuex-module-dynamically.git
 Move `store` folder to your `src` Vue.js application project
 ```
 cd vue-load-vuex-module-dynamically
-```
-```
 mv store YOUR_VUE_PROJECT/src/
 ```
 
@@ -42,5 +40,3 @@ new Vue({
 }).$mount('#app')
 
 ```
-
-Done
