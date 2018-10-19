@@ -1,1 +1,1 @@
-# vue-load-vuex-module-dynamically
+# Vue Load Vuex Module Dynamically
